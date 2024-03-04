@@ -1,7 +1,7 @@
 (function ($) {
 	"use strict";
 	/*----------------------------
-	Animation js active
+	Animation js active Pradip
 	------------------------------ */
 	AOS.init();
 	/*----------------------------
